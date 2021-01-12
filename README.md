@@ -1,5 +1,5 @@
 # xia-react-router
-use react-router like vue-router
+use react-router like vue-router（depend on react and react-router-dom）
 
 
 # use in routes.js

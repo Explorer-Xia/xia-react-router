@@ -3,9 +3,9 @@ use react-router like vue-router
 
 
 # use in routes.js
-### import Router from 'xia-react-router';
-### 
-### const routes = [
+import Router from 'xia-react-router';
+
+const routes = [
 ###     {
 ###         path: '/',
 ###         redirect: '/home'

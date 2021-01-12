@@ -6,7 +6,7 @@ use react-router like vue-router
 import Router from 'xia-react-router';
 
 const routes = [
-  {
+>>>{
 ###         path: '/',
 ###         redirect: '/home'
 ###     },
